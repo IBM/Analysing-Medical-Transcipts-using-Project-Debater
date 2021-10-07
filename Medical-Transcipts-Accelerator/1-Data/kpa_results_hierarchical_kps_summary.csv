@@ -1,0 +1,22 @@
+kp,#sentences,sentences_coverage,#comments,comments_coverage,parent,#sents_in_subtree
+none,418,0.4573304157549234,418,0.4573304157549234,root,418
+ This patient may have had reactive arthritis,81,0.0886214442013129,81,0.0886214442013129,root,163
+ Baby boy has significant pulmonary hypertension,56,0.061269146608315096,56,0.061269146608315096,root,130
+" Fever, otitis media, and possible sepsis.",44,0.04814004376367615,44,0.04814004376367615, No evidence of polyps or malignancy.,44
+ MRI - Arteriovenous malformation with hemorrhage.,39,0.04266958424507659,39,0.04266958424507659,root,39
+ Lumbar muscle strain and chronic back pain,38,0.04157549234135667,38,0.04157549234135667, This patient may have had reactive arthritis,38
+"  Chronic pelvic pain, probably secondary to endometriosis.",29,0.03172866520787746,29,0.03172866520787746, This patient may have had reactive arthritis,29
+ No evidence of polyps or malignancy.,26,0.028446389496717725,26,0.028446389496717725,root,130
+ Severe nonischemic cardiomyopathy with prior ventricular tachycardia.,26,0.028446389496717725,26,0.028446389496717725, Baby boy has significant pulmonary hypertension,26
+ Benign prostatic hypertrophy and urinary retention,21,0.022975929978118162,21,0.022975929978118162, No evidence of polyps or malignancy.,21
+" Gastroesophageal reflux disease, hiatal hernia, and enterogastritis.",20,0.02188183807439825,20,0.02188183807439825, Baby boy has significant pulmonary hypertension,20
+ Extensive stage small cell lung cancer,19,0.020787746170678335,19,0.020787746170678335, No evidence of polyps or malignancy.,19
+ Ventilator-dependent respiratory failure and laryngeal edema.,18,0.019693654266958426,18,0.019693654266958426, Baby boy has significant pulmonary hypertension,18
+ Laparoscopic cholecystectomy with attempted intraoperative cholangiogram,16,0.0175054704595186,16,0.0175054704595186,root,26
+ Hematemesis in a patient with longstanding diabetes,15,0.016411378555798686,15,0.016411378555798686, This patient may have had reactive arthritis,15
+" Congestive heart failure, stable on current regimen",10,0.010940919037199124,10,0.010940919037199124, Baby boy has significant pulmonary hypertension,10
+ The patient underwent a total vaginal hysterectomy.,10,0.010940919037199124,10,0.010940919037199124, Laparoscopic cholecystectomy with attempted intraoperative cholangiogram,10
+ Routine colorectal cancer screening,9,0.009846827133479213,9,0.009846827133479213, No evidence of polyps or malignancy.,9
+ Cognitive linguistic impairment secondary to stroke,8,0.0087527352297593,8,0.0087527352297593,root,8
+ Squamous cell carcinoma of the larynx,7,0.007658643326039387,7,0.007658643326039387, No evidence of polyps or malignancy.,7
+ Microinvasive carcinoma of the cervix.,4,0.00437636761487965,4,0.00437636761487965, No evidence of polyps or malignancy.,4

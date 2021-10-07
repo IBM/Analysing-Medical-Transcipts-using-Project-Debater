@@ -1,0 +1,9 @@
+top_kp,#level_2_kps,#sents_in_subtree,level_2_kps
+ Laparoscopic cholecystectomy with attempted intraoperative cholangiogram,1,26,[' The patient underwent a total vaginal hysterectomy.']
+root,7,914,"['none', ' This patient may have had reactive arthritis', ' Baby boy has significant pulmonary hypertension', ' MRI - Arteriovenous malformation with hemorrhage.', ' No evidence of polyps or malignancy.', ' Laparoscopic cholecystectomy with attempted intraoperative cholangiogram', ' Cognitive linguistic impairment secondary to stroke']"
+ This patient may have had reactive arthritis,3,163,"[' Lumbar muscle strain and chronic back pain', '  Chronic pelvic pain, probably secondary to endometriosis.', ' Hematemesis in a patient with longstanding diabetes']"
+ Baby boy has significant pulmonary hypertension,4,130,"[' Severe nonischemic cardiomyopathy with prior ventricular tachycardia.', ' Gastroesophageal reflux disease, hiatal hernia, and enterogastritis.', ' Ventilator-dependent respiratory failure and laryngeal edema.', ' Congestive heart failure, stable on current regimen']"
+ No evidence of polyps or malignancy.,6,130,"[' Fever, otitis media, and possible sepsis.', ' Benign prostatic hypertrophy and urinary retention', ' Extensive stage small cell lung cancer', ' Routine colorectal cancer screening', ' Squamous cell carcinoma of the larynx', ' Microinvasive carcinoma of the cervix.']"
+ Cognitive linguistic impairment secondary to stroke,0,8,[]
+none,0,418,[]
+ MRI - Arteriovenous malformation with hemorrhage.,0,39,[]
