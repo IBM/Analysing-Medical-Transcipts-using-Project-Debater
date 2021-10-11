@@ -1,7 +1,9 @@
-# A Population Health Management App using Project Debater
+## Population Health Management App using Project Debater
 
 In this demo app, we show how [IBM's Project Debater](https://research.ibm.com/interactive/project-debater/) can assist **Population Health Management** (PHM) experts and practitioners uncover and exploit insights from unstructured data in the form of medical transcriptions. 
 
-This demo uses the Medical Transcriptions dataset from Kaggle, which you can access [using this link](https://www.kaggle.com/tboyle10/medicaltranscriptions). The dataset contains sample medical transcriptions for various medical specialties, and was downloaded from [mtsamples.com](https://mtsamples.com/)
-
 This tool **is not meant to give medical advice or to replace a professional doctor's judgement**. On the contrary, its intended users are PHM managers or analysts who want to understand macro trends and correlations in a given area or are interested in governance practices.
+
+This demo uses the Medical Transcriptions dataset from Kaggle, which you can access [using this link](https://www.kaggle.com/tboyle10/medicaltranscriptions). The dataset contains sample medical transcriptions for various medical specialties, and was downloaded from [mtsamples.com](https://mtsamples.com/). These transcriptions do not contain any personal identifiable information from the patient that they refer to. In other words, they are anonymous. These medical transcriptions have been modified so that they can be better processed in the tool. Our modified version of the dataset, called `mtsamples_descriptions_clean.csv` is provided in this repo for demonstrational and educational purposes only.
+
+We have assigned a random year and London borough to each of the sentences in the dataset. This way, we can compare the KPA analysis to a number of macro level health indicators. The idea is to show how PHM practitioners can leverage geographic information on health indicators _and_ KPA to identify trends or monitor evolution of diseases against environmental, sociological or demographic data. To demonstrate this, we are using a dataset containing information about smoking rates across the London boroughs for several years. The original dataset can be found [here](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-smoking/statistics-on-smoking-england-2019). Again, we have modified this dataset to ingest it in the app. In this folder repo, it can be found under the name `smoking_rate.json`.
