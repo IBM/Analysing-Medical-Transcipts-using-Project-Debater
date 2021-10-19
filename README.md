@@ -67,7 +67,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![](https://github.com/IBMDeveloperUK/python-geopandas-workshop/blob/master/images/notebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `INSERT NOTEBOOK NAME HERE`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/Analysing-Medical-Transcipts-using-Project-Debater/blob/main/Notebooks/Key_Point_Analysis.ipynb`
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
 -  The notebook will load. 
  
